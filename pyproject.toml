@@ -1,0 +1,9 @@
+[project]
+name = "reasonfork"
+version = "0.1.0"
+description = "Direct vs chain-of-thought reasoning comparison with FINAL: tag extraction"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
